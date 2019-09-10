@@ -1,31 +1,14 @@
 fileFormatVersion: 2
-guid: 71d2f540341655c459ede31aedf9c36b
+guid: 105b7ee5cd0da9143be7e29644152a16
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Plane
-    100004: Plane_002
-    100006: Plane_004
     400000: //RootNode
-    400002: Plane
-    400004: Plane_002
-    400006: Plane_004
     2100000: unnamed
-    2100002: janelavidro
-    2100004: pisofora
-    2100006: cabine
     2300000: //RootNode
-    2300002: Plane
-    2300004: Plane_002
-    2300006: Plane_004
     3300000: //RootNode
-    3300002: Plane
-    3300004: Plane_002
-    3300006: Plane_004
-    4300000: Plane
-    4300002: Plane_004
-    4300004: Plane_002
+    4300000: lixeira
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
