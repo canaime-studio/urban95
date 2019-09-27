@@ -14,12 +14,15 @@ ModelImporter:
     2100000: luz
     2100002: poste
     2100004: vermelho
+    2100006: Material
     2300000: Cylinder
     2300002: Cylinder_002
     2300004: Cylinder_003
+    2300006: //RootNode
     3300000: Cylinder
     3300002: Cylinder_002
     3300004: Cylinder_003
+    3300006: //RootNode
     4300000: Cylinder_002
     4300002: Cylinder_003
     4300004: Cylinder
