@@ -16,17 +16,14 @@ ModelImporter:
     2100000: parafuso
     2100002: Madeira
     2100004: ferro
-    2100006: bancomadeirapraca
     2300000: FERRO
     2300002: madeira
     2300004: PARAFUSO
     2300006: FERRO_000
-    2300008: //RootNode
     3300000: FERRO
     3300002: madeira
     3300004: PARAFUSO
     3300006: FERRO_000
-    3300008: //RootNode
     4300000: PARAFUSO
     4300002: madeira
     4300004: FERRO

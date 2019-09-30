@@ -11,10 +11,6 @@ ModelImporter:
     100010: Plane_002
     100012: Plane_003
     100014: portal_do_milenium
-    100016: grama
-    100018: GUARDA-CHUVA
-    100020: Plane_004
-    100022: Plane_005
     400000: //RootNode
     400002: jardimgrama
     400004: piscina_agua
@@ -23,12 +19,7 @@ ModelImporter:
     400010: Plane_002
     400012: Plane_003
     400014: portal_do_milenium
-    400016: grama
-    400018: GUARDA-CHUVA
-    400020: Plane_004
-    400022: Plane_005
     2100000: unnamed
-    2100002: guarda_chuva
     2300000: //RootNode
     2300002: jardimgrama
     2300004: piscina_agua
@@ -37,10 +28,6 @@ ModelImporter:
     2300010: Plane_002
     2300012: Plane_003
     2300014: portal_do_milenium
-    2300016: grama
-    2300018: GUARDA-CHUVA
-    2300020: Plane_004
-    2300022: Plane_005
     3300000: //RootNode
     3300002: jardimgrama
     3300004: piscina_agua
@@ -49,10 +36,6 @@ ModelImporter:
     3300010: Plane_002
     3300012: Plane_003
     3300014: portal_do_milenium
-    3300016: grama
-    3300018: GUARDA-CHUVA
-    3300020: Plane_004
-    3300022: Plane_005
     4300000: Plane
     4300002: Plane_003
     4300004: Plane_002
@@ -60,10 +43,6 @@ ModelImporter:
     4300008: jardimgrama
     4300010: piscina_agua
     4300012: portal_do_milenium
-    4300014: grama
-    4300016: Plane_005
-    4300018: GUARDA-CHUVA
-    4300020: Plane_004
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
